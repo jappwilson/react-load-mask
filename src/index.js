@@ -18,7 +18,7 @@ export default class LoadMask extends React.Component {
       props.theme && `${DEFAULT_CLASS_NAME}--theme-${props.theme}`
     ].filter(notEmpty).join(' ')
 
-    return <div {...props} className={className}>
+    return <div className={className}>
       <Loader size={props.size} theme={props.theme} />
     </div>
   }

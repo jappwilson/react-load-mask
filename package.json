@@ -1,6 +1,6 @@
 {
-  "name": "react-load-mask",
-  "version": "2.0.2",
+  "name": "jappwilson-react-load-mask",
+  "version": "2.0.3",
   "description": "React load mask",
   "main": "lib/index.js",
   "scripts": {
@@ -17,15 +17,7 @@
     "url": "https://github.com/zippyui/react-load-mask.git"
   },
   "keywords": [
-    "load",
-    "mask",
-    "loading",
-    "loader",
-    "load-mask",
-    "mask",
-    "progress",
-    "react-component",
-    "react"
+
   ],
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
